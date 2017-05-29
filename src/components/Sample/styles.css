@@ -1,0 +1,9 @@
+.sample {
+  width: 200px;
+  height: 200px;
+  background: rebeccapurple;
+  color: white;
+  span {
+    font-weight: 200;
+  }
+}
